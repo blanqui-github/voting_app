@@ -4,7 +4,7 @@ This is a backend application for a voting system where users can vote for candi
 
 ## Features
 
-- User sign up and login with Aadhar Card Number and password
+- User sign up and login with Citizenship Number and password
 - User can view the list of candidates
 - User can vote for a candidate (only once)
 - Admin can manage candidates (add, update, delete)
@@ -22,7 +22,7 @@ This is a backend application for a voting system where users can vote for candi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Prince-1501/voting_app.git
+   git clone https://github.com/blanqui-github/voting_app.git
 
 
 # API Endpoints
