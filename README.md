@@ -22,7 +22,7 @@ This is a backend application for a voting system where users can vote for candi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/blanqui-github/voting_app.git
+   git clone https://github.com/vimpoli/voting_app.git
 
 
 # API Endpoints
